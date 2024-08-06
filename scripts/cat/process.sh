@@ -1,0 +1,1 @@
+python data_process.py \--data_dir ./data/AmazonCat-13K \--gen_clf_total \
