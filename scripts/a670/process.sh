@@ -1,0 +1,1 @@
+python data_process.py \--data_dir ./data/Amazon-670K \--gen_clf_total \
