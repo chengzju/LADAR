@@ -1,7 +1,12 @@
 # LADAR
 
+## Model preparation
+    download BERT-base model to ./bert
 
+## Data preparation
+    download different datasets to ./data
 
+## Run the code
 For Eurlex-4k, perform:
     ./scripts/eur/process.sh
     ./scripts/eur/xmtc.sh
