@@ -1,7 +1,7 @@
 # LADAR
 
 ## Model preparation
-    download BERT-base model to ./bert
+    download BERT-base-uncased model to ./bert
 
 ## Data preparation
     download different datasets to ./data
